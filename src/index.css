@@ -1,0 +1,157 @@
+.top {
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    background: #aaaaaa;
+}
+
+.time {
+    float: left;
+    padding-left: 40px;
+}
+
+.weather {
+    float: right;
+    padding-right: 40px;
+}
+
+.nav {
+    height: 70px;
+    background: url(./image/nav.jpg) no-repeat -1px center;
+}
+
+.nav-list {
+    width: 960px;
+    margin: auto;
+    list-style: none;
+}
+
+.nav-item {
+    float: left;
+    line-height: 70px;
+    width: 20%;
+    text-align: center;
+    background: url(./image/nav-line.jpg) no-repeat right center;
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.nav-link-current {
+    color: #fffc46;
+}
+
+.logo {
+    padding-top: 20px;
+    height: 150px;
+    background: url(./image/logo.png) no-repeat center center;
+    text-indent: -5000px;
+}
+
+.title {
+    margin: 20px;
+    background: url(./image/title-line.jpg) no-repeat center center;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title-text {
+    background: white;
+    padding: 0 20px;
+}
+
+.hot-image-box {
+    width: 60%;
+}
+
+.hot-image-link {
+    display: block;
+}
+
+.hot-news {
+    width: 40%;
+}
+
+.hot-image-link {
+    height: 400px;
+    background: url(./image/news-1.jpg) no-repeat center center;
+}
+
+.hottest {
+    margin: 20px;
+    border-bottom: 1px solid #aaa;
+}
+
+.hottest-title {
+    font-size: 24px;
+}
+
+.hottest-link {
+    text-decoration: none;
+}
+
+.hottest-content {
+    padding: 12px 0;
+    font-size: 14px;
+}
+
+.content-list {
+    list-style: none;
+    margin: 20px;
+    font-size: 14px;
+}
+
+.content-item {
+    margin: 20px 0;
+}
+
+.content-link {
+    float: left;
+    color: #015293;
+    width: 280px;
+    word-break: break-all;
+    text-decoration: none;
+    word-wrap: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.content {
+    width: 1240px;
+    margin: 20px auto;
+}
+
+.content-time {
+    float: right;
+    text-align: right;
+}
+
+.content-box {
+    float: left;
+    width: 33.3%;
+}
+
+.footer {
+    padding: 20px 0;
+}
+
+.footer-content {
+    width: 500px;
+    margin: auto;
+    color: white;
+    font-size: 14px;
+}
+
+.footer-text p {
+    margin: 15px 0;
+}
+
+.footer-img-2 {
+    position: relative;
+    top: -10px;
+}

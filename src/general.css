@@ -1,0 +1,30 @@
+html {
+    font-family: "微软雅黑", serif;
+}
+
+.w {
+    margin: auto;
+    width: 1200px;
+}
+
+.b {
+    background: #015293;
+}
+
+.c {
+    color: #015293;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.cls:after {
+    content: '';
+    display: table;
+    clear: both;
+}
