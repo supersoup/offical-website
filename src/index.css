@@ -3,7 +3,6 @@
     height: 30px;
     line-height: 30px;
     font-size: 12px;
-    background: #aaaaaa;
 }
 
 .time {
@@ -84,7 +83,7 @@
 
 .hottest {
     margin: 20px;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #aaaaaa;
 }
 
 .hottest-title {
@@ -112,7 +111,7 @@
 
 .content-link {
     float: left;
-    color: #015293;
+    color: #2f4687;
     width: 280px;
     word-break: break-all;
     text-decoration: none;
@@ -141,14 +140,14 @@
 }
 
 .footer-content {
-    width: 500px;
+    width: 460px;
     margin: auto;
     color: white;
     font-size: 14px;
 }
 
 .footer-text p {
-    margin: 15px 0;
+    margin: 6px 0;
 }
 
 .footer-img-2 {
