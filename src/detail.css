@@ -1,0 +1,24 @@
+h1 {
+    margin-top: 40px;
+    font-size: 24px;
+    color: #cc4744;
+    text-align: center;
+}
+
+.detail-box {
+    line-height: 1.6;
+    text-indent: 2em;
+}
+
+.detail-box p {
+    margin: 20px 0;
+}
+
+.detail-info {
+    text-align: center;
+}
+
+.img-box {
+    text-align: center;
+    margin: 20px 0;
+}

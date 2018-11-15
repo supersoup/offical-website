@@ -8,11 +8,11 @@ html {
 }
 
 .b {
-    background: #2f4687;
+    background: #cc4744;
 }
 
 .c {
-    color: #2f4687;
+    color: #cc4744;
 }
 
 .fl {
@@ -27,4 +27,71 @@ html {
     content: '';
     display: table;
     clear: both;
+}
+
+.top {
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+}
+
+.time {
+    float: left;
+    padding-left: 40px;
+}
+
+.weather {
+    float: right;
+    padding-right: 40px;
+}
+
+.nav {
+    height: 70px;
+    background: url(./image/nav.jpg) no-repeat -1px center;
+}
+
+.nav-list {
+    width: 960px;
+    margin: auto;
+    list-style: none;
+}
+
+.nav-item {
+    float: left;
+    line-height: 70px;
+    width: 16.6%;
+    text-align: center;
+    background: url(./image/nav-line.jpg) no-repeat right center;
+}
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.nav-link-current {
+    color: #fffc46;
+}
+
+.footer {
+    padding: 20px 0;
+}
+
+.footer-content {
+    width: 460px;
+    margin: auto;
+    color: white;
+    font-size: 14px;
+}
+
+.footer-text p {
+    margin: 6px 0;
+}
+
+.footer-img-2 {
+    position: relative;
+    top: -10px;
 }
