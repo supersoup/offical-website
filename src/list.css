@@ -1,0 +1,31 @@
+.list {
+    list-style: none;
+}
+
+.list-item {
+    margin: 40px;
+}
+
+.list-image-box {
+    float: left;
+}
+
+.list-image-box img {
+    width: 200px;
+    height: 120px;
+}
+
+.list-info {
+    margin-left: 250px;
+    font-size: 14px;
+}
+
+.list-info-title {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.list-info-title a {
+    color: #cc4744;
+    text-decoration: none;
+}
